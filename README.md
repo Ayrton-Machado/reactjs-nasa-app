@@ -33,3 +33,4 @@ A simple ReactJS application that fetches and displays the Astronomy Picture of 
 ```bash
 git clone https://github.com/Ayrton-Machado/reactjs-nasa-app.git
 cd reactjs-nasa-app
+npm run dev
